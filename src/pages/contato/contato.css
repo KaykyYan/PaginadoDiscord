@@ -1,0 +1,49 @@
+
+.grupo {
+    border: 4px solid red;
+    width: 350px;
+}
+
+.grupo h1 {
+    color: green;
+}
+.grupo h2 {
+    color: brown;
+}
+
+.grupo h3 {
+    color: aqua;
+}
+
+.grupo p {
+    color: blueviolet;
+}
+
+div {
+    border: 3px solid blue;
+    margin: 18px;
+}
+
+.px {
+    width: 800px;
+}
+
+.porcent {
+    width: 50%;
+}
+
+.vw {
+    width: 50vw;
+}
+
+.vh {
+    width: 100vh;
+}
+
+.em {
+    font-size: 3en;
+}
+
+.rem {
+    font-size: 3ren;
+}

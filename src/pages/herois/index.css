@@ -1,0 +1,117 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.titulo {
+    font-family: Verdana;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card-heroi {
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid black;
+
+    border-color: #1877DC;
+    background-color: #CCD3DD;
+    width: 325px;
+    padding: 20px;
+}
+
+.capa {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    width: 100%;
+}
+
+.card-titulo {
+    font-family: Verdana;
+    text-transform: uppercase;
+    font-size: 17px;
+    margin-bottom: 13px;
+}
+
+
+.card-texto {
+    margin-bottom: 10px;
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.card-poderes {
+    font-family: Verdana;
+    font-size: 16px;
+}
+
+.card-heroi2 {
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+    border-color: black;
+    background-color: darkgray;
+    width: 325px;
+    padding: 20px;
+}
+
+.capa2 {
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+width: 100%;
+}
+
+.card-titulo2 {
+    font-family: Verdana;
+    text-transform: uppercase;
+    font-size: 17px;
+    margin-bottom: 13px;
+}
+
+.card-texto2 {
+    margin-bottom: 10px;
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.card-poderes2 {
+    font-family: Verdana;
+    font-size: 16px;
+}
+
+
+.card-heroi3 {
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+    border-color: black;
+    background-color: darkgray;
+    width: 325px;
+    padding: 20px;
+}
+
+.capa3 {
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+width: 100%;
+}
+
+.card-titulo3 {
+    font-family: Verdana;
+    text-transform: uppercase;
+    font-size: 17px;
+    margin-bottom: 13px;
+}
+
+.card-texto3 {
+    margin-bottom: 10px;
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.card-poderes3 {
+    font-family: Verdana;
+    font-size: 16px;
+}
